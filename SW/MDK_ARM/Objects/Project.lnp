@@ -1,6 +1,9 @@
 --cpu Cortex-M3
 ".\objects\main.o"
 ".\objects\stm32f10x_it.o"
+".\objects\socket.o"
+".\objects\w5500.o"
+".\objects\w5500_conf.o"
 ".\objects\stm32f10x_systick.o"
 ".\objects\systick.o"
 ".\objects\misc.o"
